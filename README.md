@@ -18,9 +18,6 @@
 <img align="left" alt="Redux" width="40px" src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FreduxToolkit.ad38c806.svg&w=1920&q=75" />
 
 
-
-
-
 <!--
 **JosefKru/JosefKru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
