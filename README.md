@@ -7,7 +7,7 @@
 - 🎥 Someday I would like to make a movie 
 
 ### Connect with me:
-[Telegram](http://example.com/ "Telegram") or [Email](mailto:josefkaru@gmail.com "Email")
+[Telegram](https://t.me/josefKru "Telegram") or [Email](mailto:josefkaru@gmail.com "Email")
 
 ### Language and Tools:
 <img align="left" alt="HTML" width="40px" height='40px' src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.62b58041.svg&w=1920&q=75" />
