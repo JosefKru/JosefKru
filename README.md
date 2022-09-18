@@ -7,11 +7,7 @@
 - 🎥 Someday I would like to make a movie 
 
 ### Connect with me:
-
-[<img align="left" alt="Telegram" width="30px" height='30px' src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/josefKru "Telegram")
-[<img align="left" alt="Vk" width="40px" src="https://img.icons8.com/color/344/vk-circled--v1.png" />](https://vk.com/josefk_ru "Vk")
-
-<br />
+[Telegram](http://example.com/ "Telegram") or [Email](mailto:josefkaru@gmail.com "Email")
 
 ### Language and Tools:
 <img align="left" alt="HTML" width="40px" height='40px' src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.62b58041.svg&w=1920&q=75" />
