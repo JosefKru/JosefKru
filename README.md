@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ivan
 
-### I'm FrontEnd Developer from Moscow
+### I'm FrontEnd Developer from Moscow 
 - 💪 I like to write code 
 - 🎸 I love music and play the guitar 
 - 👨‍🔬 I like to study psychology 
