@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Ivan
 
-### I'm FrontEnd Developer from Moscow 
+### I'm Frontend Developer from Moscow 
 - 💪 I like to write code 
 - 🎸 I love music and play the guitar 
 - 👨‍🔬 I like to study psychology 
-- 🎥 Someday I would like to make a movie 
 
 ### Connect with me:
 [Telegram](https://t.me/josefKru "Telegram") or [Email](mailto:josefkaru@gmail.com "Email")
