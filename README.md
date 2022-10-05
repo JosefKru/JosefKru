@@ -8,7 +8,7 @@
 ### Connect with me:
 [Telegram](https://t.me/josefKru "Telegram") or [Email](mailto:josefkaru@gmail.com "Email")
 
-### Language and Tools:
+### Technology:
 <img align="left" alt="HTML" width="40px" height='40px' src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.62b58041.svg&w=1920&q=75" />
 <img align="left" alt="CSS" width="40px" height='40px' src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcss.87872113.svg&w=1920&q=75" />
 <img align="left" alt="JavaScript" width="40px" src="https://it-incubator.ru/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FjavaScript.00f974bc.svg&w=1920&q=75" />
