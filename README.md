@@ -6,7 +6,7 @@
 > [<img alt="CodeWars" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefKru)
 
 ### Technologies
-> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nextjs,git)
+> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,git)
 
 ### Progress
 > [<img alt="CodeWars" src="https://www.codewars.com/users/JosefK/badges/large"/>](https://www.codewars.com/users/JosefK)
