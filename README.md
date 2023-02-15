@@ -5,8 +5,8 @@
 ### Technologies
 > ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,git)
 
-### Connect with me:
-> [<img alt="CodeWars" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefKru)
-
 ### Codewars 
 > [<img alt="CodeWars" src="https://www.codewars.com/users/JosefK/badges/large"/>](https://www.codewars.com/users/JosefK)
+
+### Connect with me:
+> [<img alt="CodeWars" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefKru)
