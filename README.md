@@ -1,5 +1,4 @@
-### Ivan 28 y.o.
-### Frontend Developer from Moscow 
+### Frontend Developer Ivan
 > I've been using React in development for over a year. During this time, I managed to write several projects, the code for which you can find here. You can also find my [CV here](https://hh.ru/resume/9fdec062ff0978f95d0039ed1f41766972754e "hh.ru") and my [portfolio here](https://alyakin.vercel.app "portfolio").
 
 ### Technologies
