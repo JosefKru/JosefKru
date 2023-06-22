@@ -9,6 +9,5 @@
 
 ### Connect with me:
 > [<img alt="CodeWars" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefKru)
- [<img alt="Email" width="46px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/email_18961.png"/>](mailto:josefkaru@gmail.com)
-
- 
+> [<img alt="CodeWars" width="46px" src="https://skillicons.dev/icons?i=linkedin"/>](https://t.me/josefKru)
+> [<img alt="Email" width="46px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/email_18961.png"/>](mailto:josefkaru@gmail.com)
