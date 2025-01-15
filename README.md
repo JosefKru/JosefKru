@@ -1,14 +1,21 @@
 ### Ivan - Frontend Developer
-> I've been using React and TypeScript in development for over two years. During this time, I managed to write several projects, the code for which you can find here. You can also find my [CV here](https://hh.ru/resume/9fdec062ff0978f95d0039ed1f41766972754e "hh.ru") and my [portfolio here](https://alyakin.art "alyakin.art"). 
+> Frontend-разработчик с более чем 3 годами опыта работы. Основные технологии: **React**, **TypeScript**, **JavaScript** и **Redux**. Специализируюсь на создании высоконагруженных приложений, разработке компонентов, оптимизации производительности и локализации.  
+> Среди проектов:  
+> - Разработка высоконагруженных приложений для крупных компаний (например, СберБанк).  
+> - Создание компонентов для инвестиционных платформ и e-commerce решений.  
+> - Оптимизация сборок и внедрение современных подходов к тестированию.
+
+> 📄 Моё [CV](https://alyakin.art/CV.pdf "CV.pdf")  
+> 🌐 Моё [Портфолио](https://alyakin.art "alyakin.art")  
 
 ### Technologies
-> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,tailwind,git,deno,jest&perline=6) 
+> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,tailwind,git,deno,jest&perline=6)  
 
 ### Codewars 
-> [<img alt="CodeWars" src="https://www.codewars.com/users/JosefK/badges/large"/>](https://www.codewars.com/users/JosefK)
+> [<img alt="CodeWars" src="https://www.codewars.com/users/JosefK/badges/large"/>](https://www.codewars.com/users/JosefK)  
 
 ### Connect with me:
-> [<img alt="CodeWars" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefKru)
-> [<img alt="CodeWars" width="46px" src="https://skillicons.dev/icons?i=linkedin"/>](https://t.me/josefKru)
-> [<img alt="Email" width="46px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/email_18961.png"/>](mailto:josefkaru@gmail.com)
- 
+> [<img alt="Telegram" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefk_ru) [<img alt="Email" width="46px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/email_18961.png"/>](mailto:josefkaru@gmail.com)
+
+
+
