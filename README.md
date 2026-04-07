@@ -1,20 +1,33 @@
 ### Иван — Frontend Developer
 
-> Frontend-разработчик с 3+ годами коммерческого опыта. Основной стек: **React**, **TypeScript**, **Redux Toolkit**. Специализируюсь на высоконагруженных enterprise-приложениях и микрофронтенд-архитектуре.
+> Frontend-разработчик с 3+ годами коммерческого опыта.
+> Специализируюсь на enterprise-интерфейсах и микрофронтенд-архитектуре.
+> Работал над платформами уровня ЕВРАЗ и СберБизнес.
 
-> Среди проектов:
-> - Enterprise-платформа автоматизации ценообразования (ЕВРАЗ, СИБУР) — 6 SPA, микросервисы, Vite Module Federation
-> - Корпоративный банкинг СберБизнес — микрофронтенд на Webpack Module Federation, раздел «Депозиты и НСО»
-> - Интерактивные промо-инсталляции для ритейла — Three.js, Next.js, Framer Motion
+---
 
-> 📄 Моё [CV](https://alyakin.vercel.app/CV.pdf "CV.pdf")
-> 🌐 Моё [Портфолио](https://alyakin.vercel.app "alyakin.vercel.app")
+**Избранные проекты:**
 
-### Technologies
-> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,tailwind,deno,git,vite,webpack,jest&perline=7)
+> 🔵 **АДЕПТ** — платформа автоматизации ценообразования (ЕВРАЗ, СИБУР)
+> `React · RTK Query · Vite Module Federation · FSD · Storybook`
 
-### Codewars 
-> [<img alt="CodeWars" src="https://www.codewars.com/users/JosefK/badges/large"/>](https://www.codewars.com/users/JosefK)  
+> 🟢 **СберБизнес** — микрофронтенд для корпоративных клиентов Сбера
+> `React · Redux Toolkit · Webpack MF · Jest · React Testing Library`
 
-### Connect with me:
-> [<img alt="Telegram" width="46px" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png"/>](https://t.me/josefk_ru) [<img alt="Email" width="46px" src="https://cdn-icons-png.flaticon.com/512/18154/18154191.png"/>](mailto:josefkaru@gmail.com)
+> 🟡 **Командор** — интерактивные промо-инсталляции для ритейла
+> `Next.js · Three.js · Framer Motion · Zustand · TypeScript`
+
+---
+
+**Технологии:**
+
+> ![Technologies](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vite,webpack,scss,tailwind,jest,git,nodejs,nginx,jenkins&perline=8)
+
+---
+
+> 📁 [Портфолио](https://alyakin.vercel.app) · 📄 [CV](https://alyakin.vercel.app/CV.pdf) · 💬 [Telegram](https://t.me/josefk_ru) · ✉️ josefkaru@gmail.com
+
+---
+
+**Codewars:**
+> [![CodeWars](https://www.codewars.com/users/JosefK/badges/large)](https://www.codewars.com/users/JosefK)
